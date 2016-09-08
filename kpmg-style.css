@@ -1,0 +1,91 @@
+﻿/* --------------------------------------------------------
+KPMG styles
+version: 1.0
+Creation: 05-09-2016
+author: Nirmal Krishna Venkatraman
+email: nirmal.k@orioninc.com
+----------------------------------------------------------*/
+html {
+    background-color: #f0f0f0;
+}
+
+body {
+    color: #333333;
+}
+
+a {
+    text-decoration: none;
+    color: #005EB8;
+}
+
+    a:visited, a:hover {
+        color: #005EB8;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+.kpmg-button {
+    background-color: transparent;
+    border: 0;
+}
+
+    .kpmg-button:hover {
+        text-decoration: underline;
+    }
+
+/*Primary*/
+.font-kpmg-blue {
+    color: #00338D;
+}
+
+.font-medium-blue {
+    color: #005EB8;
+}
+
+.font-light-blue {
+    color: #0091DA;
+}
+
+/*Secondary*/
+.font-violet {
+    color: #483698;
+}
+
+.font-purple {
+    color: #470A68;
+}
+
+.font-light-purple {
+    color: #6D2077;
+}
+
+.font-green {
+    color: #00A3A1;
+}
+
+/*Tertiary*/
+.font-dark-green {
+    color: #009A44;
+}
+
+.font-light-green {
+    color: #43B02A;
+}
+
+.font-yellow {
+    color: #EAAA00;
+}
+
+.font-orange {
+    color: #F68D2E;
+}
+
+.font-red {
+    color: #BC204B;
+}
+
+.font-pink {
+    color: #C6007E;
+}
