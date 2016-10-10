@@ -36,58 +36,59 @@ a {
     }
 /*Border*/
 .border-kpmg-blue {
-    color: #00338D;
+    border-color: #00338D;
 }
 
 .border-medium-blue {
-    color: #005EB8;
+    border-color: #005EB8;
 }
 
 .border-light-blue {
-    color: #0091DA;
+    border-color: #0091DA;
 }
 
 /*Secondary*/
 .border-violet {
-    color: #483698;
+    border-color: #483698;
 }
 
 .border-purple {
-    color: #470A68;
+    border-color: #470A68;
 }
 
 .border-light-purple {
-    color: #6D2077;
+    border-color: #6D2077;
 }
 
 .border-green {
-    color: #00A3A1;
+    border-color: #00A3A1;
 }
 
 /*Tertiary*/
 .border-dark-green {
-    color: #009A44;
+    border-color: #009A44;
 }
 
 .border-light-green {
-    color: #43B02A;
+    border-color: #43B02A;
 }
 
 .border-yellow {
-    color: #EAAA00;
+    border-color: #EAAA00;
 }
 
 .border-orange {
-    color: #F68D2E;
+    border-color: #F68D2E;
 }
 
 .border-red {
-    color: #BC204B;
+    border-color: #BC204B;
 }
 
 .border-pink {
-    color: #C6007E;
+    border-color: #C6007E;
 }
+/*font color*/
 /*Primary*/
 .font-kpmg-blue {
     color: #00338D;
