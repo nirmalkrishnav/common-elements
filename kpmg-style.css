@@ -34,7 +34,60 @@ a {
     .kpmg-button:hover {
         text-decoration: underline;
     }
+/*Border*/
+.border-kpmg-blue {
+    color: #00338D;
+}
 
+.border-medium-blue {
+    color: #005EB8;
+}
+
+.border-light-blue {
+    color: #0091DA;
+}
+
+/*Secondary*/
+.border-violet {
+    color: #483698;
+}
+
+.border-purple {
+    color: #470A68;
+}
+
+.border-light-purple {
+    color: #6D2077;
+}
+
+.border-green {
+    color: #00A3A1;
+}
+
+/*Tertiary*/
+.border-dark-green {
+    color: #009A44;
+}
+
+.border-light-green {
+    color: #43B02A;
+}
+
+.border-yellow {
+    color: #EAAA00;
+}
+
+.border-orange {
+    color: #F68D2E;
+}
+
+.border-red {
+    color: #BC204B;
+}
+
+.border-pink {
+    color: #C6007E;
+}
 /*Primary*/
 .font-kpmg-blue {
     color: #00338D;
