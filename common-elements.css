@@ -1,5 +1,5 @@
-﻿/* --------------------------------------------------------
-KPMG styles
+/* --------------------------------------------------------
+Common elements
 version: 1.0
 Creation: 05-09-2016
 author: Nirmal Krishna Venkatraman
@@ -26,16 +26,16 @@ a {
         text-decoration: underline;
     }
 
-.kpmg-button {
+.common-button {
     background-color: transparent;
     border: 0;
 }
 
-    .kpmg-button:hover {
+    .common-button:hover {
         text-decoration: underline;
     }
 /*Border*/
-.border-kpmg-blue {
+.border-common-blue {
     border-color: #00338D;
 }
 
@@ -90,7 +90,7 @@ a {
 }
 /*font color*/
 /*Primary*/
-.font-kpmg-blue {
+.font-common-blue {
     color: #00338D;
 }
 
