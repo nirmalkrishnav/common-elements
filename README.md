@@ -1,5 +1,5 @@
-##Common-Elements 2
+# Common-Elements 2
 
-      Index.html has demo with code snippets
+	Index.html has demo with code snippets
 
-      Add common-elements.css at the end of the project!
+	Add common-elements.css at the end of the project!
