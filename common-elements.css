@@ -1,7 +1,7 @@
 /* --------------------------------------------------------
 Common elements
-version: 1.0
-Creation: 05-09-2016
+version: 1.3
+Creation: 06-June-2017
 author: Nirmal Krishna Venkatraman
 email: nirmal.k@orioninc.com
 ----------------------------------------------------------*/
@@ -26,6 +26,14 @@ a {
         text-decoration: underline;
     }
 
+.font-bold {
+    font-weight: bold;
+}
+
+.fa {
+    cursor: pointer;
+}
+
 .common-button {
     background-color: transparent;
     border: 0;
@@ -35,6 +43,10 @@ a {
         text-decoration: underline;
     }
 /*Border*/
+.border-common-grey {
+    border-color: #828282 !important;
+}
+
 .border-common-blue {
     border-color: #00338D;
 }
@@ -90,6 +102,14 @@ a {
 }
 /*font color*/
 /*Primary*/
+.font-333 {
+    color: #333333 !important;
+}
+
+.font-grey {
+    color: #828282 !important;
+}
+
 .font-common-blue {
     color: #00338D;
 }
@@ -142,4 +162,50 @@ a {
 
 .font-pink {
     color: #C6007E;
+}
+.font-fff {
+    color: #ffffff;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.handle-overflow {
+    clear: both;
+    overflow: auto;
+    
+}
+
+.padding-0 {
+    padding: 0px !important;
+}
+
+.padding-left-0 {
+    padding-left: 0px !important;
+}
+
+.padding-right-0 {
+    padding-right: 0px;
+}
+
+.margin-0 {
+    margin: 0px !important;
+}
+.margin-5-0 {
+    margin: 5px 0;
+}
+
+.margin-top-0 {
+    margin-top: 0px;
+}
+.padding-top-0 {
+    padding-top: 0px;
+}
+.padding-bottom-0 {
+    padding-bottom: 0px;
 }
